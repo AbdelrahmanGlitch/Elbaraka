@@ -1,0 +1,62 @@
+{
+  "navbar": {
+    "home": "Home",
+    "menu": "Menu",
+    "offers": "Offers",
+    "branches": "Branches",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Sign In",
+    "order": "Order Now"
+  },
+
+  "home": {
+
+  "heroTitle": "Taste The Best Food Experience",
+
+  "heroDescription":
+  "Enjoy delicious meals prepared with fresh ingredients and delivered directly to your door.",
+
+
+  "primaryButton":"Order Now",
+
+  "secondaryButton":"View Menu",
+
+
+  "badge":"Fast Delivery Available",
+
+
+  "categoriesTitle":"Explore Our Menu",
+
+  "categoriesDescription":
+  "Discover our delicious selection of meals made with love.",
+
+  "offersTitle": "Special Offers",
+
+  "offersDescription":
+  "Enjoy exclusive deals and discounts from El Baraka.",
+
+  "viewOffer":
+  "View Offer",
+
+  "bestSellerTitle":
+  "Best Sellers",
+
+  "bestSellerDescription":
+  "Our customers' favorite meals.",
+
+  "bestSellerButton":
+  "Add To Cart",
+
+  "bestSellerBadge":
+  "Best Seller",
+
+  "branchesTitle": "Visit Our Branches",
+
+  "branchesDescription":
+  "Find the nearest El Baraka branch and get directions instantly.",
+
+  "directions":"Get Directions"
+
+  }
+}

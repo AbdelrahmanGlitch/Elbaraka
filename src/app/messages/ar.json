@@ -1,0 +1,64 @@
+{
+  "navbar": {
+    "home": "الرئيسية",
+    "menu": "القائمة",
+    "offers": "العروض",
+    "branches": "الفروع",
+    "about": "من نحن",
+    "contact": "تواصل معنا",
+    "login": "تسجيل الدخول",
+    "order": "اطلب الآن"
+  },
+
+  "home": {
+
+"heroTitle":
+"استمتع بأفضل تجربة طعام",
+
+"heroDescription":
+"استمتع بأشهى الوجبات المحضرة بأجود المكونات والتي تصل إليك حتى باب المنزل.",
+
+
+"primaryButton":
+"اطلب الآن",
+
+"secondaryButton":
+"شاهد القائمة",
+
+
+"badge":
+"خدمة توصيل سريعة",
+
+
+"categoriesTitle":
+"اكتشف قائمتنا",
+
+
+"categoriesDescription":
+"استمتع بمجموعة متنوعة من الوجبات المحضرة بحب.",
+
+"offersTitle": "عروض خاصة",
+
+"offersDescription":
+"استمتع بأفضل العروض والخصومات من البركة.",
+
+"viewOffer":
+"شاهد العرض",
+"bestSellerTitle":"الأكثر مبيعاً",
+
+"bestSellerDescription":
+"الوجبات الأكثر طلباً من عملائنا.",
+
+"bestSellerButton":
+"أضف للسلة",
+
+"bestSellerBadge":
+"الأكثر طلباً",
+"branchesTitle":"فروع البركة",
+
+"branchesDescription":
+"اختر أقرب فرع إليك واحصل على الاتجاهات بسهولة.",
+
+"directions":"الاتجاهات"
+}
+}
